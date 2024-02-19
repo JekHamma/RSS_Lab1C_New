@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="ros_exercises" exec="simple_publisher" name="simple_publsiher" namespace="simple_publisher_1"/>
+  <node pkg="ros_exercises" exec="simple_subscriber" name="simple_subscriber" namespace="simple_subscriber_1"/>
+</launch>
