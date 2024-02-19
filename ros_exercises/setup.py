@@ -26,6 +26,7 @@ setup(
             'open_space_publisher = ros_exercises.open_space_publisher:main',
             'dynamic_tf_cam_publisher = ros_exercises.dynamic_tf_cam_publisher:main',
             'static_tf_cam_publisher = ros_exercises.static_tf_cam_publisher:main',
+            'base_link_tf_pub = ros_exercises.base_link_tf_pub:main',
         ],
     },
 )
